@@ -4,7 +4,7 @@ import chromadb
 import re
 import os
 
-groq_client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
+groq_client = Groq(api_key="UR_API_KEY")
 
 CATEGORY_LIMITS = {
     "Travel": 15000,
