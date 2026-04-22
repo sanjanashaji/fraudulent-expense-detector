@@ -1,0 +1,51 @@
+title,amount,category,description,fraud_label
+Lunch reimbursement,700,Food,team lunch no receipt,1
+Taxi airport,120,Travel,cab for client meeting,0
+Laptop purchase,2500,Equipment,no invoice urgent request,1
+Hotel stay,450,Travel,conference accommodation,0
+Pizza team dinner,800,Food,no attendee list,1
+Flight to Mumbai,500,Travel,product demo trip,0
+Dinner reimbursement,950,Food,no receipt shared,1
+Office monitor purchase,1200,Equipment,approved monitor purchase,0
+Training fee,1800,Training,certification payment,0
+Entertainment event,1300,Entertainment,no approval attached,1
+Cab reimbursement,100,Travel,airport pickup,0
+Project lunch,600,Food,team lunch without bill,1
+Keyboard purchase,300,Equipment,office keyboard,0
+Client dinner,850,Food,no attendees mentioned,1
+Conference stay,900,Travel,hotel for conference,0
+Printer cartridge,220,Equipment,office printer supplies,0
+Luxury dinner claim,1400,Food,executive dinner no proof,1
+Metro ticket,60,Travel,daily commute,0
+Software course fee,1500,Training,python certification,0
+Movie tickets,900,Entertainment,no manager approval,1
+Airport taxi,180,Travel,client pickup,0
+Team snacks,550,Food,no receipt uploaded,1
+Mouse purchase,150,Equipment,office accessory,0
+Flight Bangalore,5200,Travel,last minute booking no approval,1
+Client lunch,480,Food,business lunch with receipt,0
+Speaker purchase,700,Equipment,no approval note,1
+Annual workshop,1900,Training,approved technical training,0
+Party expenses,1100,Entertainment,no attendee proof,1
+Cab office return,130,Travel,late work transport,0
+Coffee meeting,350,Food,discussion with partner,0
+Buffet dinner,1250,Food,no guest details,1
+USB drives,200,Equipment,office backup storage,0
+Urgent hard disk,3200,Equipment,no invoice attached,1
+Travel reimbursement,430,Travel,bus and taxi expenses,0
+Gaming monitor,2800,Equipment,unclear office purpose,1
+Breakfast claim,260,Food,morning client breakfast,0
+Resort booking,1700,Entertainment,no approval attached,1
+Books purchase,600,Training,learning material,0
+Flight Delhi,4900,Travel,approved business trip,0
+Dinner claim,1000,Food,missing bill and purpose unclear,1
+Desk chair,900,Equipment,office chair approved,0
+VIP event tickets,1500,Entertainment,no business purpose,1
+Certification renewal,1300,Training,mandatory license renewal,0
+Team dinner,750,Food,no invoice shared,1
+Taxi city ride,140,Travel,meeting travel,0
+Projector purchase,2200,Equipment,meeting room setup,0
+Late night snacks,650,Food,no approval and no receipt,1
+Hotel booking,800,Travel,conference hotel approved,0
+Luxury lunch,1600,Food,no explanation provided,1
+Webinar fee,400,Training,online workshop,0
