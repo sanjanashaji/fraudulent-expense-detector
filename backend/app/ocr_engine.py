@@ -3,7 +3,7 @@ import base64
 import json
 import os
 
-client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
+client = Groq(api_key="UR_API_KEY")
 
 
 def extract_receipt_data(image_path):
